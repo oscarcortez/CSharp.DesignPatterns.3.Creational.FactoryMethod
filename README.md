@@ -1,5 +1,7 @@
 # CSharp.DesignPatterns.3.Creational.FactoryMethod
 
+Ejemplo extraido de: https://dev.to/gary_woodfine/how-to-use-factory-method-design-pattern-in-c-3ia3
+
 1. Se debe crear una clase factory que en un metodo (constructor) recibiendo una variable se decida cual clase instanciar
 ```csharp
 public static class VehicleFactory
